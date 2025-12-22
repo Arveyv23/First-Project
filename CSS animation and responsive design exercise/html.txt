@@ -1,0 +1,7 @@
+<section class="banner">
+  <div class="banner__content">
+    <h1>Let's Get Started</h1>
+    <p>JLet me share with you some of my current projects.</p>
+    <button>Begin</button>
+  </div>
+</section>
